@@ -1,4 +1,4 @@
-# Hyperblog 💚
+# Hiperblog  🙃
 Un blog increíble para el curso de Git y Github
 > Git es el sistema de control de versiones más utilizado que administra y almacena sus cambios en el código en un repositorio de Git, pero GitHub es un servicio de alojamiento en línea para repositorios de Git.
 
